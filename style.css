@@ -1,0 +1,42 @@
+/* Header css start  */
+header{
+    background: #e3f2fd;
+}
+img{
+    max-width: 100%;
+}
+.navbar-brand{
+    width: 40px;
+}
+.nav-link:hover{
+    color:#000;
+    transition: .5s;
+}
+/* Header css end */
+/* slider css start */
+.carousel-item{
+    background:url(img/slider.jpg) no-repeat top center;
+    background-size: cover;
+    padding: 220px 0;
+}
+/* slider css end */
+a{
+    text-decoration: none;
+}
+.breadcrumb{
+    background:#e9ecef;
+}
+.alert{
+    background: #d4edda;
+}
+body {
+    position: relative;
+  }
+footer{
+    background: #17a2b8;
+    padding: 5px 0;
+}
+footer p{
+    color: #fff;
+    margin-top: 10px;
+}
